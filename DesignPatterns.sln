@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GangOfFour", "GangOfFour\GangOfFour.csproj", "{3FB76857-10F2-43AE-A1A3-24ACDA80D082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GangOfFour.Test", "GangOfFour.Test\GangOfFour.Test.csproj", "{14BB0831-2129-40B3-84E6-0A14C5B080DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB76857-10F2-43AE-A1A3-24ACDA80D082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB76857-10F2-43AE-A1A3-24ACDA80D082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB76857-10F2-43AE-A1A3-24ACDA80D082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB76857-10F2-43AE-A1A3-24ACDA80D082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BB0831-2129-40B3-84E6-0A14C5B080DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BB0831-2129-40B3-84E6-0A14C5B080DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BB0831-2129-40B3-84E6-0A14C5B080DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BB0831-2129-40B3-84E6-0A14C5B080DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66493CAC-4830-4256-BE0D-6E4F1907212B}
+	EndGlobalSection
+EndGlobal
