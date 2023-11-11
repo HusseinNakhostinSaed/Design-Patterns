@@ -7,9 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Creational\" />
-    <Folder Include="Behavioral\" />
-    <Folder Include="Structural\" />
+    <Compile Remove="Behavioral\**" />
+    <Compile Remove="Structural\**" />
+    <EmbeddedResource Remove="Behavioral\**" />
+    <EmbeddedResource Remove="Structural\**" />
+    <None Remove="Behavioral\**" />
+    <None Remove="Structural\**" />
   </ItemGroup>
 
 </Project>
