@@ -1,4 +1,4 @@
-﻿namespace GangOfFour.Creational;
+﻿namespace GangOfFour.Creational.AbstractFactory;
 
 public class ShareTransaction : IShareTransaction
 {
